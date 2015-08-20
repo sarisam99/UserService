@@ -18,6 +18,7 @@ import com.mindtree.msdp.userservice.rest.UserService;
 
 /**
  * @author M1018352
+ *sariputra
  * 
  */
 public class UserServiceTest {
